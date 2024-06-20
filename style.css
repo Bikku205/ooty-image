@@ -1,0 +1,31 @@
+
+html{
+    background-color: black;
+    color: aliceblue;
+    
+  }
+    
+  .image-poster{
+    width: 50%;
+    border: 5px solid white;
+    margin-left:25%;
+    margin-top: 100px;
+  }
+
+  h1{
+    
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+
+  }
+
+  p{
+    font-family: "Playwrite FR Trad", cursive;
+    text-align: center;
+  }
+  
+ 
